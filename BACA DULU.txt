@@ -1,0 +1,23 @@
+						===========>TATA CARA MENGGUNAKAN APLIKASI<===========
+1. buat database dengan nama "db_spp"
+2. kemudian import database yang sudah ada di folder "Database"
+3. silahkan jalankan aplikasi melalui url localhost/pembayaran_spp
+4. username yang sudah di buat adalah :
+		1. SYSADMIN
+			username : sysadmin
+			password : sysadmin
+			hak akses: hanya berfungsi untuk membuat, menghapus, dan mengubah data user (petugas dan siswa);
+		2. ADMIN
+			username : admin
+			password : admin
+			hak akses: user ini merupakan inti dari program, yaitu dia bisa mengakses segalanya kecuali halaman
+						untuk membuat user (hanya SYSADMIN yang bisa mengakses)
+		3. SISWA
+			username : siswa
+			password : siswa
+			hak akses: hanya bisa melihat daftar tunggakan dan pembayaran bulanan SPP & dan DPP
+5. untuk menu laporan, hanya tinggal memilih select yang sudah di sediakan sesuai yang di inginkan, jika data ada maka data akan di tampilkan dalam bentuk tabel di excel, jika tidak ada data akan kosong.
+6. untuk beberapa fitur tambahan silahkan bisa di coba sendiri :)
+
+
+								===========>TERIMA KASIH<===========
